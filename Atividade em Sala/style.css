@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #4f8ed6;
+    color: rgb(22, 22, 22);
+}
+
+h1{
+    margin: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    padding-bottom: 1rem;
+}
+
+nav{
+    margin: 1rem;
+    border: 2px solid black;
+    background-color: rgb(236, 236, 236);
+    border-radius: 15px;
+    padding: 1.5rem;
+}
+
+a{
+    color: rgb(0, 119, 255);
+}
+
+section{
+    margin: 1rem;
+    border: 2px solid black;
+    background-color: rgb(236, 236, 236);
+    border-radius: 15px;
+    padding: 1.5rem;
+}
+
+p{
+    padding-top: 1rem;
+}
+#anao{
+    border-radius: 15px;
+    width: 200px;
+    height: 200px;  
+    
+}
+
+footer{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
